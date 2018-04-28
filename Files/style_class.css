@@ -1,0 +1,14 @@
+.articles {
+	clear: left;
+	background: #121260;
+    color: white;
+    padding: 3px 30px 30px 30px;
+    text-shadow: 0px 2px black;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.articles img {
+	float: right;
+	margin-left: 15px;
+}
